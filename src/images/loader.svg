@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 750 750" style="enable-background:new 0 0 750 750;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st4{display:none;}
+	#circulo_p{
+		    stroke-dasharray: 1196;
+    		stroke-dashoffset: 10;
+			animation: spin infinite 3.2s linear;
+			transform-origin: center;
+    		transform-box: fill-box;
+	}
+	@keyframes spin{
+		0%{
+			transform:rotate(0deg);
+		}
+		100%{
+			transform: rotate(360deg)
+		}
+	}
+	#circulo_g{
+		    stroke-dasharray: 2000;
+    		stroke-dashoffset: 10;
+			animation: spin infinite 2.5s linear;
+			transform-origin: center;
+    		transform-box: fill-box;
+	}
+	@keyframes spin{
+		0%{
+			transform:rotate(0deg);
+		}
+		100%{
+			transform: rotate(360deg)
+		}
+	}
+	#n_1_{
+		animation: blur 3s infinite   ;
+		transform-origin: top left  ;
+    	transform-box: fill-box;
+		opacity: 0;
+		animation-delay: 0.3s;
+	}
+	#a1_3_{
+		animation: blur 3s infinite   ;
+		transform-origin: top left ;
+    	transform-box: fill-box;
+		opacity: 0;
+		animation-delay: 0.4s;
+	}
+	#i_1_{	
+		animation: blur 3s infinite  ;
+		transform-origin: top;
+    	transform-box: fill-box;
+		opacity: 0; 
+		animation-delay: 0.5s;
+	}
+	#c_1_{
+		animation: blur 3s infinite  ;
+		transform-origin: top;
+    	transform-box: fill-box;
+		opacity: 0; 
+		animation-delay: 0.6s;
+	}
+	
+	#a1_2_{	
+		animation: blur 3s infinite   ;
+		transform-origin: top right ;
+    	transform-box: fill-box;
+		opacity: 0;
+		animation-delay: 0.7s;
+	}
+	
+	@keyframes blur{
+		0%{
+			transform: scale(0);
+			opacity: 0
+		}
+		10%{
+			opacity:0
+		}
+		70%{
+			transform: scale(1);
+			opacity:1
+		}
+		100%{
+			transform: scale(1);
+			opacity:1
+		}
+	}
+</style>
+<g id="fondo">
+	<rect width="776.7" height="750"/>
+</g>
+<g id="Layer_2_1_">
+	<g id="hojas">
+		<g id="hojitas">
+			<path id="izq1" class="st0" d="M366.1,653.3c0,0-17.2-24.8-35.1-34.5s-26.3-11-44.5-11.4c4.5,7.4,8.1,16.6,28.4,30.7
+				S366.1,653.3,366.1,653.3z"/>
+			<path id="izq2" class="st0" d="M363.9,665.2c0,0-29.3-7.2-49.2-2.5c-19.9,4.7-26.9,9.2-40.9,21c8.3,2.5,17.1,7.1,41.6,4.1
+				S363.9,665.2,363.9,665.2z"/>
+			<path id="izq4" class="st0" d="M253.9,624.7c0,0-24.8-17.1-45.1-19.8s-28.5-0.9-45.7,5.1c6.8,5.3,13.4,12.7,37.4,18.6
+				C224.6,634.4,253.9,624.7,253.9,624.7z"/>
+			<path id="izq3" class="st0" d="M314.4,648.2c0,0-27.9-11.5-48.2-9.9s-28,5.1-43.6,14.6c7.8,3.8,15.8,9.6,40.5,10.3
+				C287.9,663.9,314.4,648.2,314.4,648.2z"/>
+			<path id="izq6" class="st0" d="M218.2,593.2c0,0-19.1-23.4-37.8-31.6s-27.1-8.8-45.3-7.8c5.1,7,9.4,15.9,30.8,28.3
+				C187.4,594.5,218.2,593.2,218.2,593.2z"/>
+			<path id="izq5" class="st0" d="M276.9,623.4c0,0-8.2-29.1-22-44s-21.3-18.9-38.4-25.2c1.9,8.4,2.2,18.4,16.9,38.2
+				S276.9,623.4,276.9,623.4z"/>
+			<path id="izq7" class="st0" d="M196.5,557.4c0,0,0.1-30.2-9.1-48.4s-15.3-24-30-34.8c-0.5,8.6-2.9,18.3,5.8,41.4
+				C171.9,538.7,196.5,557.4,196.5,557.4z"/>
+			<path id="izq9" class="st0" d="M144.8,492.7c0,0-0.9-30.2-10.7-48.1S118,421.1,103,410.8c-0.2,8.6-2.3,18.4,7.2,41.2
+				C119.6,474.9,144.8,492.7,144.8,492.7z"/>
+			<path id="izq8" class="st0" d="M160.7,538c0,0-14.3-26.6-31.1-38.2s-24.9-13.8-43-16.3c3.6,7.8,6.2,17.4,24.9,33.6
+				C130.2,533.3,160.7,538,160.7,538z"/>
+			<path id="der2_1_" class="st0" d="M492.1,607.1c0,0-30.1,2.7-47.3,13.6c-17.3,10.9-22.5,17.5-31.9,33.1
+				c8.6-0.3,18.5,1.2,40.7-9.6C475.8,633.3,492.1,607.1,492.1,607.1z"/>
+			<path id="der1_1_" class="st0" d="M505.4,682.1c0,0-24.6-17.6-44.7-20.6c-20.2-3-28.4-1.4-45.7,4.3c6.7,5.4,13.2,12.9,37.1,19.2
+				C476,691.3,505.4,682.1,505.4,682.1z"/>
+			<path id="der3" class="st0" d="M556.6,651.4c0,0-26.9-13.8-47.3-13.8c-20.4-0.1-28.3,2.8-44.6,10.9c7.4,4.4,15,10.9,39.5,13.6
+				C528.9,664.9,556.6,651.4,556.6,651.4z"/>
+			<path id="der4" class="st0" d="M617.5,608.9c0,0-29-8.4-49-4.5s-27.3,8.2-41.7,19.3c8.1,2.9,16.8,7.8,41.4,5.8
+				C592.9,627.5,617.5,608.9,617.5,608.9z"/>
+			<path id="der5" class="st0" d="M564.1,552.2c0,0-27.6,12.1-40.6,27.9c-12.9,15.8-15.8,23.7-19.7,41.5c8.1-3,17.9-4.7,35.5-22.1
+				S564.1,552.2,564.1,552.2z"/>
+			<path id="der6" class="st0" d="M643.9,551.4c0,0-30.2,0.3-48.3,9.7s-23.8,15.6-34.4,30.4c8.6,0.4,18.3,2.7,41.3-6.3
+				C625.6,576.2,643.9,551.4,643.9,551.4z"/>
+			<path id="der7" class="st0" d="M621.4,474.4c0,0-23.8,18.5-32.5,37c-8.7,18.5-9.5,26.9-8.9,45.1c7.1-4.9,16.2-9,29-30.1
+				C621.9,505.2,621.4,474.4,621.4,474.4z"/>
+			<path id="der8" class="st0" d="M690.6,482.2c0,0-29.5,6.5-45.2,19.5c-15.8,13-20.1,20.2-27.4,36.9c8.5-1.4,18.5-1.2,39.1-14.8
+				C677.8,510.2,690.6,482.2,690.6,482.2z"/>
+			<path id="der9" class="st0" d="M674.1,410.2c0,0-23.4,19.1-31.6,37.8c-8.2,18.7-8.8,27.1-7.8,45.3c7-5.1,15.9-9.4,28.3-30.8
+				C675.4,441.1,674.1,410.2,674.1,410.2z"/>
+		</g>
+	</g>
+	<g id="naica">
+		<g id="letras">
+			<path id="n_1_" class="st0" d="M188.1,236.3l-1-1c0,0,2.5-2.2,2.2-4s-0.8-2.4-0.8-2.4l-48.9-46.4c0,0-3.1-2.6-6.3,0.6l-0.8,0.3
+				L132,182l14.9-15.6l63.8,11.1l-35.5-33.8c0,0-1.1-1.1-2.2-0.7c-1.1,0.4-3.9,2.3-3.9,2.3l-1.1-1l14.1-14.9l1.3,1.1l-1.3,1.7
+				l-0.6,1.1v1.9l0.9,1.2l2.2,2.4l51.6,49l-7.2,7.7L156,184l40.4,38.3l2.7,0.1l3-2.5l1,0.7L188.1,236.3z"/>
+			<g id="a1_3_">
+				<path class="st0" d="M266.7,161.1l0.6,1.4l19.5-7.2l-0.5-1.2l-1.8,0.5c0,0-2.5,0.1-2.6,0.1s-1.5-0.9-1.5-1.7s0.1-17.6,0.1-17.6
+					l27.1-9.9l11.7,13.4c0,0,0.5,1.8-0.1,2.2s-3.9,2.2-3.9,2.2l0.7,1.4l26.3-9.7l-0.5-1.4c0,0-2.4,0.8-3.5-0.1
+					c-1.1-0.9-56-60.7-56-60.7l-9.8,3.6l-2.4,79.6C269.9,156.1,270.1,159.6,266.7,161.1z"/>
+				<polygon class="st1" points="280.4,94.8 280.4,126.8 302.1,119 				"/>
+			</g>
+			<g id="a1_2_">
+				<g id="letterA">
+				<path class="st0" d="M535.2,175.6l-1,1.1l14.4,15l0.9-0.9l-1.2-1.4c0,0-1.1-2.3-1.1-2.4s0.2-1.7,1-2.1s16.1-6.9,16.1-6.9
+					l19.8,20.9l-7.6,16.1c0,0-1.5,1.2-2.1,0.8s-3.6-2.7-3.6-2.7l-1,1.2l19.3,20.2l1.1-1.1c0,0-1.7-1.9-1.3-3.3s33.5-75.5,33.5-75.5
+					l-7.2-7.6l-74,29.4C541,176.6,537.9,178.2,535.2,175.6z"/>
+				<polygon class="st1" points="601.5,161.9 572.1,174.6 587.9,191.4 				"/>
+				</g>
+			</g>
+			<path id="i_1_" class="st0" d="M402.5,59.7l-1.3,69.5c0,0,0.4,2.7,2.6,2.9c2.3,0.1,3.2,0,3.2,0v1.7l-29-0.5v-1.8l3.4,0.1
+				c0,0,2.7-0.2,2.7-3.3c0.1-3.2,1.2-68.9,1.2-68.9s-0.2-2.4-2.6-2.7c-2.3-0.3-3.4-0.2-3.4-0.2l-0.1-1.3l29.3,0.4V57l-3.7,0.1
+				C404.8,57.2,402.6,57.4,402.5,59.7z"/>
+			<path id="c_1_" class="st0" d="M525.2,107.5h1.9l7.4-19l-1.3-0.8l-1.4,1.3c0,0-2,0.7-2.9,0s-7-5.5-7-5.5s-8.5-8.7-26.7-9.4
+				s-27.6,11.1-27.6,11.1s-15.4,14.7-13,37.7s28.3,31.6,31.3,32.4s20.9,2.7,24.8-2c-0.1-1.9,0-2.5,0-2.5s-19.2,7.3-32.7-10
+				s-1.9-51.2,16.9-56C513.5,80.1,526,95.3,525.2,107.5z"/>
+		</g>
+	</g>
+	<g id="runa">
+		<polygon id="runa_1" class="st2" points="332.4,434.6 332.4,468.6 422.4,558.2 422.4,356.5 486.9,419.6 486.9,386.2 396.9,295.7 
+			397.1,498.7 		"/>
+	</g>
+	<g id="runa_x5F_2">
+		<polygon id="runa2_1_" class="st2" points="288.3,330.6 288.3,364.6 378.5,454.2 378.4,252.1 442.6,315.4 442.6,281.7 
+			353.1,191.6 352.8,394.5 		"/>
+	</g>
+	<g id="circulo_p">
+		<circle id="circulo1" class="st3" cx="390.3" cy="374.4" r="219.1"/>
+	</g>
+	<g id="circulo_g">
+		<circle id="circulo1_2_" class="st3" cx="390.8" cy="375" r="344"/>
+	</g>
+	<g id="estrella_x5F_2">
+		<polygon id="estrella2" class="st2" points="110.1,306.6 116.7,319.7 131.3,321.8 120.7,332 123.2,346.4 110.1,339.6 97.1,346.4 
+			99.6,332 89,321.8 103.6,319.7 		"/>
+	</g>
+	<g id="estrella">
+		<polygon id="estrella1_1_" class="st2" points="665.7,306.6 672.3,319.7 686.9,321.8 676.3,332 678.8,346.4 665.7,339.6 
+			652.7,346.4 655.2,332 644.6,321.8 659.2,319.7 		"/>
+	</g>
+	<g id="circulito_x5F_p">
+		<circle id="circulito" class="st2" cx="389.3" cy="661.1" r="10.1"/>
+	</g>
+</g>
+<g id="Layer_1_1_" class="st4">
+	
+		<image style="display:inline;overflow:visible;opacity:0.33;enable-background:new    ;" width="1701" height="1812" xlink:href="../../Downloads/logoverticalblanco (1).png"  transform="matrix(0.4121 0 0 0.4121 24 1.6279)">
+	</image>
+</g>
+</svg>
