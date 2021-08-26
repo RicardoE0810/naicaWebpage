@@ -39,20 +39,21 @@ class App extends React.Component {
     const tlLogo = gsap.timeline({
       scrollTrigger: {
         trigger: ".trigger",
-        start: "top top",
+        start: "bottom bottom",
         end: "bottom 100%",
-        scrub: 0.1,
+        scrub: 0.6,
+        markers:true
       }
     });
-    tlLogo.to(".box", {yPercent: 400, duration: 15, opacity:0, startAt: {y: 400, opacity: 0}})
-    tlLogo.to(".box", {duration: 5, opacity:0, ease: "power2.in"})
-    tlLogo.to(".box", {xPercent: 40, duration: 5, opacity:1})
+    tlLogo.to(".box", {yPercent: 0, duration: 20, opacity:0, startAt: {y: -20, opacity: 0}})
+    tlLogo.to(".box", {duration: 20, opacity:0,})
+    tlLogo.to(".box", {xPercent: -40, duration: 5, opacity:1})
   }
 
   render() {
     return (
       <>
-        <Loader /> 
+        {/* <Loader />  */}
         <div className="trigger" id="trigger">
           <div loading="lazy" className='layer-bg layer parallax' data-depth='0.10'></div>
           <div loading="lazy" className='layer-1 layer parallax' data-depth='0.25'></div>
@@ -66,6 +67,7 @@ class App extends React.Component {
                </div>
             </div>
         </div>
+        <div className='newBox'> </div>
           {/* <div className="firstImage">
           </div> */}
       </>
